@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+*.caffemodel
+MobileNetSSD_deploy.prototxt.txt
